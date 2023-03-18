@@ -1,0 +1,8 @@
+[2023-03-18 15:52:26][Info]	Context reports FSAA is available with 8samples
+[2023-03-18 15:52:26][Info]	Requesting FSAA with 8samples
+[2023-03-18 15:52:26][Info]	2 monitors detected, running on primary one
+[2023-03-18 15:52:26][Info]	Renderer: AMD Radeon(TM) Graphics
+[2023-03-18 15:52:26][Info]	OpenGL version supported: 4.6.14761 Compatibility Profile Context 21.30.02.19 30.0.13002.19003
+[2023-03-18 15:52:26][Info]	Creating TextureManager with 31 maximum bound textures
+[2023-03-18 15:56:37][Info]	Terminated Blit3D
+[2023-03-18 15:56:37][Info]	TextureManager destroyed
